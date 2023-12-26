@@ -1,0 +1,11 @@
+QUESTIONS:
+
+1) Write a program that ask the user for a SECRET CODE and then print the secret code which should be in this format [FIRSTNAME]_[AGE]_[SECRETCODE]
+
+2) Write a program that ask the user for two SECRET CODES and then print the secret code which should be in this format [SECRETCODE1]_||_[DAY]_||_[SECRETCODE2]
+
+3) Write a program that ask the user for two SECRET CODES and then print the secret code which should be in this format [SECRETCODE1]_|[DAY][SECRETCODE2]|_[AGE]_|[DAY][SECRETCODE1]|_[SECRETCODE2]
+
+4) Write a program that ask the user for 3 SECRET CODES and then print the secret code which should be in this format SECRETCODE3:\([[SECRETCODE1|_|_|SECRETCODE2]])/
+
+5) Write a program that ask the user for 3 SECRET CODES and then print the secret code which should be in this format SECRETCODE3:[SECRETCODE3?|[SECRETCODE2?[SECRETCODE1]]
