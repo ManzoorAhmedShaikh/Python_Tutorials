@@ -1,0 +1,44 @@
+Q1) Write a program in which you have to ask S1, S2, S3 and show the output in this way: [(S1|S2)|S3]
+
+Q2) Write a program in which you have to ask S1, S2, S3 and show the output in this way: [(S1,S2|S2/S1)||S3||]
+
+Q3) Write a program in which you have to ask S1, S2, S3, S4 and show the output in this way: [[S1]/\[S2]/\[S3]/\[S4]]
+
+Q4) Write a program in which you have to ask S1, S2, S3, S4 and show the output in this way: |S1|-->S2<--|S3|-->S4
+
+Q5) Write a program in which you have to ask S1, S2, S3, S4 and show the output in this way: |S1|/-\|->S2<-|/-\|S3|/-\|->S4
+
+Q6) Write a program in which you have to ask S1, S2, S3, S4, S5 and show the output in this way: S1|?|S5-~>S3$#>_[S2|(S4]]
+
+Q7) Write a program in which you have to ask S1, S2, S3, S4, S5 and show the output in this way: S1S2S3S4S5S2S3S1S4S1S2S4S5
+
+Q8) Write a program in which you have to ask S1, S2, S3, S4, S5 and show the output in this way: [S1/|\(|S2|(|S3|)/|\S4|)||S5]
+
+Q9) Write a program in which you have to ask S1, S2, S3 and show the output in this way: (|S1-><-S2|]<>><<>[[[S3]]]
+
+Q10) Write a program in which you have to ask S1, S2, S3 and show the output in this way: (((S1S3||/-?||S2,S1||?-\/||S3S2]]]
+
+Q11) Write a program to draw All Capital English Alphabets shapes using "*":
+
+    *
+   * *
+  * * *
+ *     *
+*       *
+
+* * * *
+*      *
+*      *
+* * * *
+*      *
+*      *
+* * * *
+.
+.
+.
+
+* * * * *
+      *
+    *
+  *
+* * * * *
