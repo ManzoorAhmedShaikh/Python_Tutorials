@@ -1,0 +1,19 @@
+Q1) Write a python program in which you ask for your First and last name along with your age. Add comments to those inputs.
+
+Q2) Write a python program in which you ask 3 numbers from the user and then print them after converting it to the decimal number. 
+
+Q3) Write a python program to initialize 3 variables having String, float and boolean value and explain these variables in a Multi line comments before initializing.
+
+Q4) Write a python program to ask user for his Car vendor and its model, save them in variables and then print them together. Add comments how you print them together
+
+Q5) Write a python program to do these conversions (Add comments before each conversion):
+1) "23" 		-> int()
+2) "23.2" 		-> float()
+3) 23.52 		-> str() 
+4) 41			-> float() + Add 2.6 		-> int()
+5) "55.2"		-> int() + Divide by 3.5	-> str()
+6) True (bool)		-> str()					-> bool()
+7) 1			-> float()					-> int()	-> bool()
+8) 1			-> float() + Subtract 0.9	-> int()	-> bool()
+9) 5.5			-> str() 					-> int() + Divide by 5
+10) "44"		-> int() + Add 5.5	 			-> str()					
