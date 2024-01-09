@@ -1,0 +1,7 @@
+Q1) Write a program in which you have to add 2 random numbers and check if they are equal to 12 or not?
+
+Q2) Write a program in which you have to multiply 3 numbers together and check if the first number is less than their multiplication result
+
+Q3) Write a program in which you have to Add 2 numbers and check if they are less than and equal to the multiplication of those 2 numbers or not.
+
+Q4) Write a program to square a number and check if it is not equal to the actual number or not.
