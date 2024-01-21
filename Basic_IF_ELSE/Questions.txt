@@ -1,0 +1,7 @@
+Q1) Write a program to ask a user for his name, if the name length is greater than 10, print 'FINE' otherwise 'TRY AGAIN'
+
+Q2) Write a program to ask two numbers from the user, add them and multiply them and save their results in 2 variables. If their result is same it should print "PERFECT" otherwise "GOOD"
+
+Q3) Write a program to ask user for his CNIC number, if the number entered by the user contains "-" then print "VALID" otherwise "INVALID"
+
+Q4) Write a program to ask user for his name and age. If the age is greater than 18 and name is not empty, then print "ELIGIBLE" otherwise "TRY AGAIN"
