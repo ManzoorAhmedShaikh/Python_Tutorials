@@ -1,0 +1,23 @@
+Q1) Write a program in which you ask the user for the percentage, and based on that, it should print the Grade.
+
+Q2) Write a temperature program in which you ask the user for a temperature and then ask in which system to convert (Celcius or Fahrenheit). Based on the condition, it should convert accordingly.
+
+Q3) Write a program to ask a user for a number and then check if the number is even or Odd
+
+Q4) Write a program to ask the user for any number from 1-12 and according to the number, the name of month should be printed. example: 3-March
+
+Q5) Write a program to ask the user for his salary, and the time spent on the company in years. if the number of years greater than 5 then double the salary else no increament
+
+Q6) Write a program in which you ask a single lower case character and decide if it is a vowel or consonants. (HINT: Use logical Operators along with it)
+
+Q7) Write a program in which you have to ask the age, and based on that it should categorize.
+child 		5 ~ 12
+teenage		13 ~ 28
+Adult		29 ~ 55
+Senior		> 55
+
+Q8) Write a program that ask the time (Morning, Afternoon or Evening), based on that different color should print on output (Green, Yellow, Red)
+
+Q9) Write a program to ask a user for a book name, if the book is available, show its price.
+
+Q10) Write a program to initialize random length (cm). Then ask the user to which unit it has to convert (m, mm, nm,...) and convert accordingly
