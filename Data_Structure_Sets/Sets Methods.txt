@@ -1,0 +1,14 @@
+SETS Functions:
+
+1) add
+2) remove
+3) discard
+4) pop
+5) clear
+6) union
+7) intersection
+8) difference
+.
+.
+.
+.
