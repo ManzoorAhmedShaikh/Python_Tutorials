@@ -1,0 +1,8 @@
+Dictionary Methods:
+
+1) values()
+2) keys()
+3) items()
+4) pop()
+5) get()
+6) update()
